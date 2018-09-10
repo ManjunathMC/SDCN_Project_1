@@ -10,4 +10,4 @@ be elobarated more while explaining the procedure in detail.
 
 **To run the project, just type the below lines:**
 
-jupyter notebood proj_1.ipynb
+jupyter notebook proj_1.ipynb
